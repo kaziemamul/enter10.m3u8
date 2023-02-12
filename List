@@ -1,0 +1,73 @@
+<li data-show='tomorrow'> La Liga </li>
+<div class='tab' data-show='today' style='display:non;'> 
+
+<li class='coraliv-fixtures'>
+<div class='tv-live'>
+  <div class='chanel'><img src='https://3.bp.blogspot.com/-e1gjOP1z1-s/WaH6uniXOwI/AAAAAAAAAjU/Wwddge-Qq8I-IAcSZuStdzzuKZ62cQhtwCLcBGAs/s320/unnamed%2B%25282%2529.png'/></div>
+</div>
+<div class='center-c'>
+<div class='tems'>
+<div class='team1'>
+<div class='command_info' style='float: right;'>
+<div class='score1'>-</div>
+<div class='team-logo'>
+<img alt='#' src='https://seeklogo.com/images/R/real-betis-balompie-logo-6ED6C18150-seeklogo.com.png'/>
+</div>
+</div>
+<div class='team-name'> Bangladesh <span/></div>
+</div>
+
+
+<div class='center-vs'/>
+
+
+<div class='team2'>
+<div class='team-name'>  India   <span/></div>
+<div class='command_info' style='float: left;'>
+<div class='team-logo2'>
+<img alt='#' src='https://hdlogo.files.wordpress.com/2011/08/levante-ud-logo.png'/>
+</div>
+<div class='score2'>-</div>
+</div>
+</div>
+
+
+<div class='info-live'>
+<div class='coralive-time'> Dhaka Stadium <span/></div>
+<div class='coralive-comm'><i aria-hidden='true' class='fa fa-microphone'/> Kazi Emamul <span/></div>
+</div>
+</div>
+</div>
+<div class='live-time'>
+<div class='ma-teim'>
+<div class='countdown_dashboard' data-day='13' data-hour='14' data-id='1061' data-min='45' data-month='2' data-sec='0' data-year='2017' id='countdown_dashboard_1061'>
+<div class='dash seconds_dash'>
+<div class='digit'>0</div>
+<div class='digit'>2</div>
+</div>
+<div class='dash minutes_dash'>
+<div class='digit'>3</div>
+<div class='digit'>0</div>
+</div>
+<div class='dash hours_dash'>
+<div class='digit'>1</div>
+<div class='digit'>2</div>
+</div>
+</div>
+</div>
+<div class='alda'>
+<a href='#'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1280px-LaLiga_Santander.svg.png'/>
+</a>
+</div>
+</div>
+<div class='mach-live'>
+<a class='show-mach' href='#'>
+شاهد المباراة | Watch The Match
+</a>
+</div>
+</li>
+
+
+
+</div>
